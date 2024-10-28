@@ -8,3 +8,4 @@ VERSION = "v1.0.0"
 
 USERNAME = os.getenv('USERNAME')
 PEM_PATH = os.getenv('PEM_PATH')
+PORT = os.getenv('PORT', 9100)
