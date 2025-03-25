@@ -2,3 +2,5 @@ fastapi
 gunicorn
 python-dotenv
 uvicorn
+asyncio
+requests

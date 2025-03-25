@@ -4,3 +4,4 @@ class OperationalRequest(BaseModel):
     username: str | None = None
     userid: str | None = None
     password: str | None = None
+    plant_name: str | None = None
